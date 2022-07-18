@@ -1,4 +1,5 @@
 [Click to View the website](https://chipper-cajeta-85f9cb.netlify.app)
+
 ![game-search](https://user-images.githubusercontent.com/57281589/179546989-7583eef9-c486-4ec1-a1cd-5b34558f176d.png)
 
 
